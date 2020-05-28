@@ -2,7 +2,7 @@
 ### My App
 
 It works thanks to time.
-The user needs a time-generated key.
+The user needs a time-generated key, get key after encrypt.
 Inserts the password into the decoder and then inserts the cipher.
 
 Follow me:                                                  
